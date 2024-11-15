@@ -1,2 +1,5 @@
 export { default as user } from './user'
 export { default as group } from './group'
+export { default as friend } from './friend'
+export { default as whiteBoard } from './whiteboard'
+export { default as groupMember } from './group-member'
